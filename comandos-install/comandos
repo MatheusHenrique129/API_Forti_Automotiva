@@ -1,0 +1,14 @@
+npm init 
+
+npm install express
+
+npm install nodemon -D
+
+npm install sequelize --save
+
+npm install sequelize-cli - permite utilizar os comandos, e criar o banco
+
+npm install mysql2 
+
+npx sequelize db:create - cria o database no banco
+
